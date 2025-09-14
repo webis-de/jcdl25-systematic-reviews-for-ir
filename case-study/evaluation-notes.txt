@@ -1,0 +1,1622 @@
+######################################################################################
+Topic: 78 - Fairness, Accountability, Transparency and Ethics in Information Retrieval
+######################################################################################
+# "Optimal" Boolean Query from "A Systematic Review of Fairness, Accountability, Transparency, and Ethics in Information Retrieval":
+((fairness OR fair) OR (transparency OR transparent OR explainable OR explanation) OR (accountability OR accountable) OR (ethic OR ethical)) AND (“information retrieval” OR “ranking algorithm” OR “search engine”)
+--------------------------------------------------------------------------------------
+Results: # 603 retrieved documents
+1
+- Fairness and Transparency in Ranking
+R D
+- Fairness and Transparency in Ranking
+R 16
+- FAIR: Fairness-aware information retrieval evaluation
+R 37
+- Search results diversification for effective fair ranking in academic search
+R 66
+- Fairness-Aware Explainable Recommendation over Knowledge Graphs
+N
+- Explainable Fairness in Recommendation
+N
+- FACTS-IR: fairness, accountability, confidentiality, transparency, and safety in information retrieval
+R 75
+- Search Result Explanations Improve Efficiency and Trust
+R 84
+- FA*IR: A Fair Top-k Ranking Algorithm
+R 111
+- Explainable Recommendation: A Survey and New Perspectives
+N
+2
+- Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation
+N
+- When Fair Ranking Meets Uncertain Inference
+N
+- CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems
+N
+- Report on the CyCAT winter school on fairness, accountability, transparency and ethics (FATE) in AI
+N
+- When Should We Use Linear Explanations?
+N
+- Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR)
+N
+- User Fairness, Item Fairness, and Diversity for Rankings in Two-Sided Markets
+R 103
+- Addressing Social Bias in Information Retrieval
+N
+- ICT at TREC 2019: Fair Ranking Track
+N
+- Maximizing Marginal Fairness for Dynamic Learning to Rank
+N
+3
+- Understanding and Mitigating the Effect of Outliers in Fair Ranking
+N
+- Fairness-Aware PageRank
+N
+- ColBERT-FairPRF: Towards Fair Pseudo-Relevance Feedback in Dense Retrieval
+N
+- Extracting per Query Valid Explanations for Blackbox Learning-to-Rank Models
+N
+- How Fair is Fairness-aware Representative Ranking?
+N
+- Policy-Gradient Training of Fair and Unbiased Ranking Functions
+N
+- Learn to be Fair without Labels: A Distribution-based Learning Framework for Fair Ranking
+N
+- The Archive Query Log: Mining Millions of Search Result Pages of Hundreds of Search Engines from 25 Years of Web Archives
+N
+- End-to-End Learning for Fair Ranking Systems
+N
+- Towards Trustworthiness in the Context of Explainable Search
+N
+4
+- Societal Biases in Retrieved Contents: Measurement Framework and Adversarial Mitigation of BERT Rankers
+R 85
+- Online Post-Processing in Rankings for Fair Utility Maximization
+N
+- Situating Search
+N
+- A Meta-learning Approach to Fair Ranking
+N
+- Fairness in Information Access Systems
+N
+- TKB48 at TREC 2021 Fairness Ranking Track
+N
+- Fairness of Exposure in Light of Incomplete Exposure Estimation
+N
+- Evaluating Fairness in Argument Retrieval
+R 79
+- FairCORELS, an Open-Source Library for Learning Fair Rule Lists
+N
+- Practical Compositional Fairness: Understanding Fairness in Multi-Component Recommender Systems
+N
+5
+- EXTRA: Explanation Ranking Datasets for Explainable Recommendation
+N
+- Privacy-Preserving Fair Item Ranking
+N
+- Towards Explainable Search Results: A Listwise Explanation Generator
+N
+- Estimation of Fair Ranking Metrics with Incomplete Judgments
+N
+- Addressing Bias and Fairness in Search Systems
+N
+- Towards Explainable Search in Legal Text
+N
+- Towards Personalized Fairness based on Causal Notion
+N
+- University of Glasgow Terrier Team at the TREC 2022 Fair Ranking Track
+N
+- MaxSimE: Explaining Transformer-based Semantic Similarity via Contextualized Best Matching Token Pairs
+N
+- Score region algebra: building a transparent XML-R database
+N
+6
+- Personalized Search: Potential and Pitfalls
+N
+- Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison
+N
+- Toward Fair Recommendation in Two-sided Platforms
+N
+- Explainable Recommender Systems via Resolving Learning Representations
+N
+- Ranking of Wikipedia articles in search engines revisited: Fair ranking for reasonable quality?
+N
+- Accountable key infrastructure (AKI): a proposal for a public-key validation infrastructure
+N
+- Reputation Agent: Prompting Fair Reviews in Gig Markets
+N
+- Learning to Re-rank with Constrained Meta-Optimal Transport
+N
+- SIGIR 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018)
+N
+- Item-based variational auto-encoder for fair music recommendation
+N
+7
+- The University of Amsterdam at the TREC 2021 Fair Ranking Track
+N
+- X-Rank: Explainable Ranking in Complex Multi-Layered Networks
+R 51
+- Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access
+N
+- Multi-grouping Robust Fair Ranking
+R 96
+- The Role of Relevance in Fair Ranking
+N
+- Marginal-Certainty-Aware Fair Ranking Algorithm
+N
+- On the Relationship between Explanation and Recommendation: Learning to Rank Explanations for Improved Performance
+N
+- Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations
+N
+- Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction
+N
+- Fairness-Aware Tensor-Based Recommendation
+N
+8
+- FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
+N
+- Exploring Potential Pathways to Address Bias and Ethics in IR
+N
+- Games for Fairness and Interpretability
+N
+- P-MMF: Provider Max-min Fairness Re-ranking in Recommender System
+N
+- Fair Allocation in Online Markets
+N
+- Equity of Attention: Amortizing Individual Fairness in Rankings
+N
+- Interactive Information Retrieval with Bandit Feedback
+N
+- Track2Vec: fairness music recommendation with a GPU-free customizable-driven framework
+N
+- Simpler is Much Faster: Fair and Independent Inner Product Search
+N
+- RAGUEL: Recourse-Aware Group Unfairness Elimination
+N
+9
+- Explainable Recommendation via Multi-Task Learning in Opinionated Text Data
+N
+- Enticing Local Governments to Produce FAIR Freedom of Information Act Dossiers
+N
+- Probabilistic Permutation Graph Search: Black-Box Optimization for Fairness in Ranking
+N
+- EARS 2020: The 3rd International Workshop on ExplainAble Recommendation and Search
+N
+- Counterfactual Explainable Recommendation
+N
+- Measuring search engine bias
+R 72
+- CSR 2021: The 1st International Workshop on Causality in Search and Recommendation
+N
+- bias goggles: Graph-Based Computation of the Bias of Web Domains Through the Eyes of Users
+N
+- Transparent Queries: Investigating Users' Mental Models of Search Engines
+N
+- k-Clustering with Fair Outliers
+N
+10
+- Break the Loop: Gender Imbalance in Music Recommenders
+N
+- Enumerating Fair Packages for Group Recommendations
+N
+- Pareto-Optimal Fairness-Utility Amortizations in Rankings with a DBN Exposure Model
+N
+- A Survey on the Fairness of Recommender Systems
+N
+- Fair and Representative Subset Selection from Data Streams
+N
+- Fair Seeding in Knockout Tournaments
+N
+- A Graph-Based Approach for Mitigating Multi-Sided Exposure Bias in Recommender Systems
+N
+- Fairness of Extractive Text Summarization
+N
+- Fairness and Discrimination in Retrieval and Recommendation
+N
+- Towards Long-term Fairness in Recommendation
+N
+11
+- Toward A Two-Sided Fairness Framework in Search and Recommendation
+N
+- Methods of Corporate Surveillance: a Primer on Experimental Transparency Research
+N
+- Learning Fair Representations for Recommendation: A Graph-based Perspective
+N
+- Alexa, in you, I trust! Fairness and Interpretability Issues in E-commerce Search through Smart Speakers
+N
+- FARA: Future-aware Ranking Algorithm for Fairness Optimization
+N
+- Experiments on Generalizability of User-Oriented Fairness in Recommender Systems
+N
+- Spectral Relaxations and Fair Densest Subgraphs
+N
+- Explainable Cross-Topic Stance Detection for Search Results
+N
+- Towards Fair Allocation in Social Commerce Platforms
+N
+- A GA-based algorithm meets the fair ranking problem
+R 94
+12
+- On Natural Language User Profiles for Transparent and Scrutable Recommendation
+N
+- Putting context into search and search into context
+N
+- On the Nature and Function of Explanation in Intelligent Information Retrieval
+R 8
+- User-Centric Path Reasoning towards Explainable Recommendation
+N
+- Privacy, accountability, and access in the age of the personalized campaign
+N
+- Some Reflections on the Use of Structural Equation Modeling for Investigating the Causal Relationships that Affect Search Engine Results
+R 68
+- Application of an ontology for model cards to generate computable artifacts for linking machine learning information from biomedical research
+N
+- Fair ranking in academic search - Notebook for the TREC 2019 Fair Ranking Track
+N
+- A Transparent Logical Framework for Aspect-Oriented Product Ranking Based on User Reviews
+N
+- An experimental comparison of click position-bias models
+N
+13
+- Evaluating Stochastic Rankings with Expected Exposure
+R 26
+- Explaining Recommendations in Heterogeneous Networks
+N
+- REV2: Fraudulent User Prediction in Rating Platforms
+N
+- Analyzing the content emphasis of web search engines
+N
+- Special issue on model design, formulation and explanation in information retrieval using mathematics
+N
+- Explainable Information Retrieval
+N
+- SoBigData: Social Mining \& Big Data Ecosystem
+N
+- Fairness in Information Retrieval
+N
+- Efficient interactive query expansion with complete search
+N
+- Towards Explainable Retrieval Models for Precision Medicine Literature Search
+N
+14
+- Mixed monolingual homepage finding in 34 languages: the role of language script and search domain
+N
+- INFER: a relational query language without the complexity of SQL
+N
+- Diversity enhancement for collaborative filtering recommendation
+N
+- Information retrieval in the workplace: A comparison of professional search practices
+N
+- Joint Multisided Exposure Fairness for Recommendation
+N
+- Ethical Dimensions of Music Information Retrieval Technology
+N
+- How Fair Can We Go: Detecting the Boundaries of Fairness Optimization in Information Retrieval
+R 38
+- There's a creepy guy on the other end at Google!: engaging middle school students in a drawing activity to elicit their mental models of Google
+N
+- DISCO: Comprehensive and Explainable Disinformation Detection
+N
+- SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios
+N
+15
+- University of Glasgow Terrier Team at the TREC 2020 Fair Ranking Track
+N
+- Ranking by Language Similarity for Resource Scarce Southern Bantu Languages
+N
+- Controlling Fairness and Bias in Dynamic Learning-to-Rank
+N
+- Optimizing Generalized Gini Indices for Fairness in Rankings
+N
+- The Dark Side of Explanations: Poisoning Recommender Systems with Counterfactual Examples
+N
+- Improving Entity Ranking for Keyword Queries
+N
+- Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness
+N
+- TEM: Tree-enhanced Embedding Model for Explainable Recommendation
+N
+- Tutorial on Fairness of Machine Learning in Recommender Systems
+N
+- Measuring the web crawler ethics
+N
+16
+- OptiLIME: Optimized LIME Explanations for Diagnostic Computer Algorithms
+N
+- A Deep Analysis of an Explainable Retrieval Model for Precision Medicine Literature Search
+N
+- Explainable Product Search with a Dynamic Relation Embedding Model
+N
+- PageRank: Splitting Homogeneous Singular Linear Systems of Index One
+N
+- Moderating effects of governance on information infrastructure and e-government development
+N
+- Towards Scalable and Complete Query Explanation with OWL 2 EL Ontologies
+N
+- Jointly Learning Explainable Rules for Recommendation with Knowledge Graph
+N
+- An analysis of search engine switching behavior using click streams
+N
+- Fairness-Aware Question Answering for Intelligent Assistants
+N
+- Human-Based Query Difficulty Prediction
+N
+17
+- Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information
+N
+- librec-auto: A Tool for Recommender Systems Experimentation
+N
+- Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment
+N
+- De-biasing Relevance Judgements for Fair Ranking
+N
+- Combat COVID-19 infodemic using explainable natural language processing models
+N
+- fKWIC: Frequency-based keyword-in-context index for filtering Web search results
+N
+- Diane Kelly: Methods for evaluating interactive information retrieval systems with users - Foundation and Trends in Information Retrieval, vol 3, nos 1-2, pp 1-224, 2009, ISBN: 978-1-60198-224-7
+N
+- LIRME: Locally Interpretable Ranking Model Explanation
+R 99
+- Bimodal invitation-navigation fair bets model for authority identification in a social network
+N
+- A Visual Approach to Query Formulation for Systematic Search
+N
+18
+- Learning to rank only using training data from related domain
+N
+- DeepIntell at the NTCIR-13 STC-2 Task
+N
+- Understanding How Algorithmic and Cognitive Biases in Web Search Affect User Attitudes on Debated Topics
+N
+- CIKM '20: The 29th ACM International Conference on Information and Knowledge Management, Virtual Event, Ireland, October 19-23, 2020
+N
+- 2dSearch: A Visual Approach to Search Strategy Formulation
+N
+- QSAN: A Quantum-probability based Signed Attention Network for Explainable False Information Detection
+N
+- Demographic differences in search engine use with implications for cohort selection
+N
+- Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning
+N
+- RuDi: Explaining Behavior Sequence Models by Automatic Statistics Generation and Rule Distillation
+N
+- PEVAE: A Hierarchical VAE for Personalized Explainable Recommendation
+N
+19
+- Exposing Query Identification for Search Transparency
+N
+- Algorithms for Fair Team Formation in Online Labour Marketplaces10033
+N
+- What Is Quantum Information Retrieval?
+N
+- Live visual relevance feedback for query formulation
+N
+- Informetric explanation of some Leiden Ranking graphs
+N
+- Predictive Uncertainty-based Bias Mitigation in Ranking
+N
+- Web crawling ethics revisited: Cost, privacy, and denial of service
+N
+- Mitigating Bias in Search Results Through Contextual Document Reranking and Neutrality Regularization
+N
+- Search by Ideal Candidates: Next Generation of Talent Search at LinkedIn
+N
+- Gender Fairness in Information Retrieval Systems
+N
+20
+- Language Fairness in Multilingual Information Retrieval
+N
+- First Participation of University and Hospitals of Geneva to Domain-Specific Track in CLEF 2008
+N
+- Pooling-based continuous evaluation of information retrieval systems
+N
+- Learning to Re-Rank with Contextualized Stopwords
+N
+- N2N: Network Derivative Mining
+N
+- FaxPlainAC: A Fact-Checking Tool Based on EXPLAINable Models with HumAn Correction in the Loop
+N
+- Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective
+N
+- Ingrams: A Neuropsychological Explanation For Why People Search
+N
+- Query Terms Extraction from Patent Document for Invalidity Search
+N
+- RecFormer: personalized temporal-aware transformer for fair music recommendation
+N
+21
+- Multilingual Information Retrieval Using Open, Transparent Resources in CLEF 2003
+N
+- Assessing and Predicting Vertical Intent for Web Queries
+N
+- Explanation and Generalization of Vector Models in Information Retrieval
+N
+- FAIRY: A Framework for Understanding Relationships Between Users' Actions and their Social Feeds
+N
+- Control and syntagmatization: Vocabulary requirements in information retrieval thesauri and natural language lexicons
+N
+- The Istella22 Dataset: Bridging Traditional and Neural Learning to Rank Evaluation
+N
+- Art in an algorithm: A taxonomy for describing video game visual styles
+N
+- Explainability for Transparent Conversational Information-Seeking
+N
+- INST: An Adaptive Metric for Information Retrieval Evaluation
+N
+- Becoming the Super Turker: Increasing Wages via a Strategy from High Earning Workers
+N
+22
+- X-Vision: Explainable Image Retrieval by Re-Ranking in Semantic Space
+N
+- Almost (Weighted) Proportional Allocations for Indivisible Chores1003310033
+N
+- Text-only Cross-language Image Search at Medical ImageCLEF 2008
+N
+- Efficient Computation of Polynomial Explanations of Why-Not Questions
+N
+- Wondering why data are missing from query results?: ask conseil why-not
+N
+- Supervised approaches for explicit search result diversification
+N
+- A Comparative Study of Click Models for Web Search
+N
+- From Social Machines to Social Protocols: Software Engineering Foundations for Sociotechnical Systems
+N
+- RMIT at TREC 2021 Fair Ranking Track
+N
+- A Taxation Perspective for Fair Re-ranking
+N
+23
+- Fair and balanced: learning to present news stories
+N
+- MusiClef: Multimodal Music Tagging Task
+N
+- Data, censorship, and politics: Analyzing the restricted flow of information in federal scientific policy development
+N
+- Situating logic and information in information science
+N
+- Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
+N
+- Listwise Explanations for Ranking Models Using Multiple Explainers
+N
+- ISKODOR: unified user modeling for integrated searching
+N
+- The impact of collection size on relevance and diversity
+N
+- An information processing model of undergraduate electronic database information retrieval
+N
+- Understanding patrons' micro-level information seeking (MLIS) in information retrieval situations
+N
+24
+- Rank-LIME: Local Model-Agnostic Feature Attribution for Learning to Rank
+N
+- Fairness in Search Systems
+N
+- Methods for Evaluating Interactive Information Retrieval Systems with Users
+N
+- The effectiveness study of various music information retrieval approaches
+N
+- Sparse hidden-dynamics conditional random fields for user intent understanding
+N
+- Can Embeddings Analysis Explain Large Language Model Ranking?
+N
+- Inside YAGO2s: a transparent information extraction architecture
+N
+- The influence of relevance levels on the effectiveness of interactive information retrieval
+N
+- Challenges and Supports for Accessing Open Government Datasets: Data Guide for Better Open Data Access and Uses
+N
+- ROMCIR 2023: Overview of the 3rd Workshop on Reducing Online Misinformation Through Credible Information Retrieval
+N
+25
+- Taking Search to Task
+N
+- FairRankTune: A Python Toolkit for Fair Ranking Tasks
+N
+- Overview of the TREC 2021 Fair Ranking Track
+N
+- Overview of the TREC 2022 Fair Ranking Track
+N
+- Fair Top-k Ranking with multiple protected groups
+R 113
+- Time-aware Path Reasoning on Knowledge Graph for Recommendation
+N
+- Ethical decision-making for knowledge representation and organization systems for global use
+N
+- Rhetorical relations for information retrieval
+N
+- Automatic Text Summarization Based on Word-Clusters and Ranking Algorithms
+N
+- Privacy-preserving Crowd-guided AI Decision-making in Ethical Dilemmas
+N
+26
+- CFE2: Counterfactual Editing for Search Result Explanation
+N
+- Exploiting Cooccurrence on Corpus and Document Level for Fair Crosslanguage Retrieval
+N
+- FACE-KEG: Fact Checking Explained using KnowledgE Graphs
+N
+- Search of Spoken Documents Retrieves Well Recognized Transcripts
+N
+- Investigating Order Effects in Multidimensional Relevance Judgment using Query Logs
+N
+- Neuron Campaign for Initialization Guided by Information Bottleneck Theory
+N
+- Faceted search of heterogeneous geographic information for dynamic map projection
+N
+- Fair use versus fair return: Copyright legislation and its consequences
+N
+- Pairwise Fairness in Ranking as a Dissatisfaction Measure
+N
+- FairER: Entity Resolution With Fairness Constraints
+N
+27
+- MacEwan University at the TREC 2020 Fair Ranking Track
+N
+- Naver Labs Europe at TREC 2020 Fair Ranking Track
+N
+- FARE: Diagnostics for Fair Ranking using Pairwise Error Metrics
+R 55
+- Fair multi-stakeholder news recommender system with hypergraph ranking
+N
+- DCU@Morpheme Extraction Task of FIRE-2012: Rule-based Stemmers for Bengali and Hindi
+N
+- A Compositional Hierarchical Model for Music Information Retrieval
+N
+- Online Evaluation for Information Retrieval
+N
+- WSDM 2017 Workshop on Mining Online Health Reports: MOHRS 2017
+N
+- Towards an effective and unbiased ranking of scientific literature through mutual reinforcement
+N
+- Biomedical Information Retrieval incorporating Knowledge Graph for Explainable Precision Medicine
+N
+28
+- Convex Fairness Constrained Model Using Causal Effect Estimators
+N
+- FairColor: An efficient algorithm for the Balanced and Fair Reviewer Assignment Problem
+N
+- Tutorial on Explainable Recommendation and Search
+N
+- Explainable IR for Personalizing Professional Search
+N
+- POTATO: exPlainable infOrmation exTrAcTion framewOrk
+N
+- Fuzzy retrieval for software reuse
+N
+- A formal study of information retrieval heuristics
+N
+- Towards Ethical Item Ranking: A Paradigm Shift from User-Centric to Item-Centric Approaches
+N
+- Do you want to take notes?: identifying research missions in Yahoo! search pad
+N
+- An Open-Access Platform for Transparent and Reproducible Structured Searching
+N
+29
+- End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models
+N
+- University of Washington at TREC 2020 Fairness Ranking Track
+N
+- BVideoQA: Online English/Chinese bilingual video question answering
+N
+- Extending BM25 with multiple query operators
+N
+- Explainable User Clustering in Short Text Streams
+N
+- RMIT CIDDA IR at the TREC 2022 Fair Ranking Track
+N
+- ILMART: Interpretable Ranking with Constrained LambdaMART
+N
+- Combining concepts and language models for information access
+N
+- HeteroCS: A Heterogeneous Community Search System With Semantic Explanation
+N
+- Building user profiles based on sequences for content and collaborative filtering
+N
+30
+- Tell Me About Yourself: The Malicious CAPTCHA Attack
+N
+- Supporting exploratory people search: a study of factor transparency and user control
+N
+- Intermediary's information seeking, inquiring minds, and elicitation styles
+N
+- Exploring web scale language models for search query processing
+N
+- The dynamics of interactive information retrieval behavior, Part I: An activity theory perspective
+N
+- Crosslanguage Retrieval Based on Wikipedia Statistics
+N
+- Rethinking 'Advanced Search': A New Approach to Complex Query Formulation
+N
+- Trust and Trustworthiness in Social Recommender Systems
+N
+- Supporting Interoperability Between Open-Source Search Engines with the Common Index File Format
+N
+- MIRA Transparent Implementation of Common {MIR Metrics
+N
+31
+- Fairness-Aware Unsupervised Feature Selection
+N
+- Guided-LIME: Structured Sampling based Hybrid Approach towards Explaining Blackbox Machine Learning Models
+N
+- Grounded and Transparent Response Generation for Conversational Information-Seeking Systems
+N
+- Transparent information systems through gateways, front ends, intermediaries, and interfaces
+N
+- A formulation for patenting content-based retrieval processes in digital libraries
+N
+- Preliminary Workshop on Evaluation of Geographic Information Retrieval Systems for Web Documents
+N
+- Blockchain-based privacy preservation for supply chains supporting lightweight multi-hop information accountability
+N
+- University of Hagen at CLEF2006: Reranking Documents for the Domain-specific Task
+N
+- A Gamified Approach to Relevance Judgement
+N
+- Temporal Meta-path Guided Explainable Recommendation
+N
+32
+- What is behind the curtain of the Leiden Ranking?
+N
+- Axiomatically Regularized Pre-training for Ad hoc Search
+N
+- Learning to Personalize for Web Search Sessions
+N
+- HiFI: Hierarchical Fairness-aware Integrated Ranking with Constrained Reinforcement Learning
+N
+- Towards Optimizing Ranking in Grid-Layout for Provider-Side Fairness
+N
+- The University of Maryland at the TREC 2020 Fair Ranking Track
+N
+- dEFEND: A System for Explainable Fake News Detection
+N
+- Are Users Willing to Search Cross-Language? An Experiment with the Flickr Image Sharing Repository
+N
+- Are Users Willing to Search Cross-Language? An Experiment with the Flickr Image Sharing Repository
+N
+- Fairness of Machine Learning in Search Engines
+N
+33
+- User-oriented Fairness in Recommendation
+N
+- Cross-Domain Retrieval in the Legal and Patent Domains: A Reproducibility Study
+N
+- A User Study on Snippet Generation: Text Reuse vs. Paraphrases
+N
+- Image Searching and Browsing by Active Aspect-Based Relevance Learning
+N
+- Vanity fair: privacy in querylog bundles
+N
+- A comparative study of methods for estimating query language models with pseudo feedback
+N
+- Exploiting collaborative filtering techniques for automatic assessment of student free-text responses
+N
+- Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization
+N
+- Automatic and Analytical Field Weighting for Structured Document Retrieval
+N
+- Contract-based cloud architecture
+N
+34
+- Unsupervised Explainable Controversy Detection from Online News
+N
+- Modeling reformulation using query distributions
+N
+- Triple Structural Information Modelling for Accurate, Explainable and Interactive Recommendation
+N
+- Combining travel behavior in metro passenger flow prediction: A smart explainable Stacking-Catboost algorithm
+N
+- Measuring Item Global Residual Value for Fair Recommendation
+N
+- Learning About Health and Medicine from Internet Data
+N
+- Computing explanations for unlively queries in databases
+N
+- Select, Substitute, Search: A New Benchmark for Knowledge-Augmented Visual Question Answering
+N
+- The Network Visibility Problem
+N
+- SIGIR 2019 Tutorial on Explainable Recommendation and Search
+N
+35
+- WWW'19 Tutorial on Explainable Recommendation and Search
+N
+- EXS: Explainable Search Using Local Model Agnostic Interpretability
+R 89
+- Evaluating Information Extraction
+N
+- CrowdSelect: Increasing Accuracy of Crowdsourcing Tasks through Behavior Prediction and User Selection
+N
+- Learning Links for Adaptable and Explainable Retrieval
+N
+- Crosslingual Opinion Extraction from Author and Authority Viewpoints at NTCIR-6
+N
+- Third Workshop on Evaluation of Personalisation in Information Retrieval (WEPIR 2020): In Memoriam Seamus Lawless
+N
+- Chain of Explanation: New Prompting Method to Generate Quality Natural Language Explanation for Implicit Hate Speech
+N
+- Balancing Utility and Exposure Fairness for Integrated Ranking with Reinforcement Learning
+N
+- A Study of Pre-processing Fairness Intervention Methods for Ranking People
+N
+36
+- Bootstrapped nDCG Estimation in the Presence of Unjudged Documents
+N
+- When transparency and collaboration collide: The USA Open Data program
+N
+- Fighting Fire with Fire: Using Antidote Data to Improve Polarization and Fairness of Recommender Systems
+N
+- Learning Query-Space Document Representations for High-Recall Retrieval
+N
+- User Modeling Towards Stateful Learning to Rank
+N
+- HTML templates that fly: a template engine approach to automated offloading from server to client
+N
+- Compact explanation of data fusion decisions
+N
+- CIAL System at the NTCIR-13 STC-2 Task
+N
+- Integrating Side Information for Boosting Machine Comprehension
+N
+- Hierarchical web resources retrieval by exploiting Fuzzy Formal Concept Analysis
+N
+37
+- Multimodal Image Retrieval - Fusing modalities with multilayer multimodal pLSA
+N
+- The ESA retrieval model revisited
+N
+- CAFE: Coarse-to-Fine Neural Symbolic Reasoning for Explainable Recommendation
+N
+- Information experience in personally meaningful activities
+N
+- POLESTAR: collaborative knowledge management and sensemaking tools for intelligence analysts
+N
+- CoralExp: An Explainable System to Support Coral Taxonomy Research
+N
+- An Urban Data Profiler
+N
+- Argumentation-Driven Information Extraction for Online Crime Reports
+N
+- OpenNIR: A Complete Neural Ad-Hoc Ranking Pipeline
+N
+- Learning a Hierarchical Embedding Model for Personalized Product Search
+N
+38
+- Social Collaborative Viewpoint Regression with Explainable Recommendations
+N
+- MeUse: Recommending Internet Radio Stations
+R 42
+- The f index: Quantifying the impact of coterminal citations on scientists' ranking
+N
+- Collaborative Information Seeking through Social Media Updates in Real-Time
+N
+- Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications
+N
+- Explainable Spatio-Temporal Graph Neural Networks
+N
+- A Theory of Term Weighting Based on Exploratory Data Analysis
+N
+- FairSearch: A Tool For Fairness in Ranked Search Results
+R 112
+- Legal and ethical considerations: step 1b in building a health web observatory
+N
+- Relevance as resonance: a new theoretical perspective and a practical utilization in information filtering
+N
+39
+- Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews
+N
+- Deep Critiquing for VAE-based Recommender Systems
+N
+- Computing, explaining and visualizing shape similarity in content-based image retrieval
+N
+- Comparing SQL and MapReduce to compute Naive Bayes in a single table scan
+N
+- Understanding Users of Commercial Music Services through Personas: Design Implications
+N
+- Best and Fairest: An Empirical Analysis of Retrieval System Bias
+N
+- Utilizing dependency relationships between math expressions in math IR
+N
+- Using the Hammer only on Nails: A Hybrid Method for Representation-Based Evidence Retrieval for Question Answering
+N
+- Globally local and fast explanations of t-SNE-like nonlinear embeddings
+N
+- The structure and dynamics of cocitation clusters: A multiple-perspective cocitation analysis
+N
+40
+- Model-agnostic vs. Model-intrinsic Interpretability for Explainable Product Search
+N
+- Explainable Graph-based Fraud Detection via Neural Meta-graph Search
+N
+- XSearchKG: A Platform for Explainable Keyword Search over Knowledge Graphs
+N
+- Integration of cluster ensemble and EM based text mining for microarray gene cluster identification and annotation
+N
+- BiTe-REx: An Explainable Bilingual Text Retrieval System in the Automotive Domain
+N
+- High-Level Audio Features: Distributed Extraction and Similarity Search
+N
+- Applications of multidimensional scaling: Comment on "a method for studying intercorrelated circulation patterns in library systems"
+N
+- Tagcloud-based explanation with feedback for recommender systems
+N
+- Sampling Precision to Depth 10000 at CLEF 2007
+N
+- Toward An Interdisciplinary Methodology to Solve New (Old) Transportation Problems
+N
+41
+- PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems
+N
+- A Markovian Approach to Evaluate Session-Based IR Systems
+N
+- Exploiting shopping and reviewing behavior to re-score online evaluations
+N
+- Exploiting User Signals and Stochastic Models to Improve Information Retrieval Systems and Evaluation
+N
+- Evaluation of resources for question answering evaluation
+N
+- Computer-assisted assignment of educational standards using natural language processing
+N
+- Explainable and Personalized Privacy Prediction
+N
+- A Counterfactual Modeling Framework for Churn Prediction
+N
+- A model of the relationship between the variations of effectiveness and fairness in information retrieval
+N
+- A General Explanation Component for Conceptual Modeling in CASE Environments
+N
+42
+- Natural language processing in support of decision-making: phrases and part-of-speech tagging
+N
+- Privacy Aware Temporal Profiling of Emails in Distributed Setup
+N
+- A Plan for Ancillary Copyright: Original Snippets
+N
+- Query Facet Mapping and its Applications in Streaming Services: The Netflix Case Study
+N
+- Learning fair representations by separating the relevance of potential information
+N
+- Unified linear subspace approach to semantic analysis
+N
+- CLEF 2023 SimpleText Track - What Happens if General Users Search Scientific Texts?
+N
+- An Exploration of Learning-to-re-rank Using a Two-step Framework for Fair Ranking
+N
+- University of Glasgow Terrier Team and Naver Labs Europe at TREC 2019 Fair Ranking Track
+N
+- Provider fairness across continents in collaborative recommender systems
+N
+43
+- Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach
+N
+- Overview of the NTCIR-13 Short Text Conversation Task
+N
+- EARS 2019: The 2nd International Workshop on ExplainAble Recommendation and Search
+N
+- Citizen Participation: Case Study on Participatory Apps in Germany
+N
+- Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation
+N
+- On Building Fair and Reusable Test Collections using Bandit Techniques
+N
+- Making the global information society good: A social justice perspective on the ethical dimensions of the global information society
+N
+- On types of search and the allocation of library resources
+N
+- Pairwise Review-Based Explanations for Voice Product Search
+N
+- iFACT: An Interactive Framework to Assess Claims from Tweets
+N
+44
+- Combining RDF Graph Data and Embedding Models for an Augmented Knowledge Graph
+N
+- Branded with a scarlet "C": cheaters in a gaming social network
+N
+- Fuzzy associative rule-based approach for pattern mining and identification and pattern-based classification
+N
+- PEQ: An Explainable, Specification-based, Aspect-oriented Product Comparator for E-commerce
+N
+- Inferring Dynamic User Interests in Streams of Short Texts for User Clustering
+N
+- Quantifying risk associated with clinical trial termination: A text mining approach
+N
+- The PRET A Rapporter framework: Evaluating digital libraries from the perspective of information work
+N
+- Interaction Embeddings for Prediction and Explanation in Knowledge Graphs
+N
+- Evaluating Text Summarization Systems with a Fair Baseline from Multiple Reference Summaries
+N
+- FairUP: A Framework for Fairness Analysis of Graph Neural Network-Based User Profiling Models
+N
+45
+- A Conceptual Image Retrieval Architecture Combining Keyword-Based Querying with Transparent and Penetrable Query-by-Example
+N
+- Valuable words: The price dynamics of internet domain names
+N
+- Explicit factor models for explainable recommendation based on phrase-level sentiment analysis
+N
+- Alignment Rationale for Query-Document Relevance
+N
+- Explainable Conversational Question Answering over Heterogeneous Sources
+N
+- The Impact of Group Membership Bias on the Quality and Fairness of Exposure in Ranking
+N
+- Consumer Health Information Quality, Credibility, and Trust: An Analysis of Definitions, Measures, and Conceptual Dimensions
+N
+- Improving Weak Ad-Hoc Retrieval by Web Assistance and Data Fusion
+N
+- tieval: An Evaluation Framework for Temporal Information Extraction Systems
+N
+- The Rawls-Tawney theorem and the digital divide in postindustrial society
+N
+46
+- Disentangled Item Representation for Recommender Systems
+N
+- Improving Synoptic Quering for Source Retrieval: Notebook for PAN at CLEF 2015
+N
+- The OldDog Docker Image for OSIRRC at SIGIR 2019
+N
+- Report on EARS'18: 1st International Workshop on ExplainAble Recommendation and Search
+N
+- Report on the 1st workshop on argumentation knowledge graphs (ArgKG 2021) at AKBC 2021
+N
+- Linked Data Spaces \& Data Portability
+N
+- Dialect Diversity in Text Summarization on Twitter
+N
+- Singing Voice Separation Using Spectro-Temporal Modulation Features
+N
+- Comparing cross-language query expansion techniques by degrading translation resources
+N
+- Overview of EXIST 2023: sEXism Identification in Social NeTworks
+N
+47
+- Distilling Task Knowledge from How-To Communities
+N
+- What Makes the Story Forward?: Inferring Commonsense Explanations as Prompts for Future Event Generation
+N
+- Effective retrieval of resources in folksonomies using a new tag similarity measure
+N
+- RecBole 2.0: Towards a More Up-to-Date Recommendation Library
+N
+- Deep Integrated Explanations
+N
+- Mobile technologies and the spatiotemporal configurations of institutional practice
+N
+- Designing an IIR Research Apparatus with Users with Severe Intellectual Disability
+N
+- Making newsworthy news: The integral role of creativity and verification in the human information behavior that drives news story creation
+N
+- WANDS: Dataset for Product Search Relevance Assessment
+N
+- Effects of Stubbornness on Opinion Dynamics
+N
+48
+- A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation
+N
+- Learning to Rank Features for Recommendation over Multiple Categories
+N
+- INFOTEC-LaBD at PAN@CLEF21: Profiling Hate Speech Spreaders on Twitter through Emotion-based Representations
+N
+- CNSVRE: A Query Reformulated Search System with Explainable Summarization for Virtual Research Environment
+N
+- I Found It, How Can I Use It?" - Dealing With the Ethical and Legal Constraints of Information Access
+N
+- Probabilistic Topic Models for Text Data Retrieval and Analysis
+N
+- A Multi-Label Classification Method Using a Hierarchical and Transparent Representation for Paper-Reviewer Recommendation
+N
+- Exploration versus Exploitation in Topic Driven Crawlers
+N
+- On the Reliability of Test Collections for Evaluating Systems of Different Types
+N
+- Creating value from Social Big Data: Implications for Smart Tourism Destinations
+N
+49
+- Real-time document collaboration using iPads
+N
+- Tailored news in the palm of your hand: a multi-perspective transparent approach to news recommendation
+N
+- Data Science for Social Good and Public Policy: Examples, Opportunities, and Challenges
+N
+- Blockchain-based Data Management and Analytics for Micro-insurance Applications
+N
+- Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems from a Multi-task Perspective
+N
+- Overview of ImageCLEFfusion 2023 Task - Testing Ensembling Methods in Diverse Scenarios
+N
+- Attention-Based Vandalism Detection in OpenStreetMap
+N
+- Understanding and supporting anonymity policies in peer review
+N
+- An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks
+N
+- A Framework for the Management of Past Experiences with Time-Extended Situations
+N
+50
+- Detection of False Online Advertisements with DCNN
+N
+- Using Key Sentence to Improve Sentiment Classification
+N
+- An Empirical Comparison of Web Page Segmentation Algorithms
+N
+- Attention-driven Factor Model for Explainable Personalized Recommendation
+N
+- Interpretable Graph Similarity Computation via Differentiable Optimal Alignment of Node Embeddings
+N
+- Towards a Better Contextualization of Web Contents via Entity-Level Analytics
+N
+- What kind of science can information science be?
+N
+- Towards Principled User-side Recommender Systems
+N
+- Precision-Oriented Query Facet Extraction
+N
+- A Non-Factoid Question-Answering Taxonomy
+N
+51
+- Authorship Verification in the Absence of Explicit Features and Thresholds
+N
+- Conflict of Interest Declaration and Detection System in Heterogeneous Networks
+N
+- Data work in context: Value, risks, and governance
+N
+- Scene-Centric vs. Object-Centric Image-Text Cross-Modal Retrieval: A Reproducibility Study
+N
+- A Tutorial on Probabilistic Topic Models for Text Data Retrieval and Analysis
+N
+- MUSER: A Multi-View Similar Case Retrieval Dataset
+N
+- Optimizing Rankings for Recommendation in Matching Markets
+N
+- The CLARIAH Media Suite: a Hybrid Approach to System Design in the Humanities
+N
+- Twitter use by the U.S. Congress
+N
+- Information Foraging for Enhancing Implicit Feedback in Content-based Image Recommendation
+N
+52
+- Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation
+N
+- How much is your personal recommendation worth?
+N
+- An Attentive Interaction Network for Context-aware Recommendations
+N
+- CoLesIR at CLEF 2007: from English to French via Character N-Grams
+N
+- Interpreting informational cues: An explorative study on information use among prospective homebuyers
+N
+- QCluster: Clustering Packets for Flow Scheduling
+N
+- Conversion rate based bid adjustment for sponsored search
+N
+- Incremental Approach for Automatic Generation of Domain-Specific Sentiment Lexicon
+N
+- Manual Annotation of Semi-Structured Documents for Entity-Linking
+N
+- Unbiased Knowledge Distillation for Recommendation
+N
+53
+- Introducing the Expohedron for Efficient Pareto-optimal Fairness-Utility Amortizations in Repeated Rankings
+N
+- Veridical Data Science
+N
+- Auxiliary-task Based Deep Reinforcement Learning for Participant Selection Problem in Mobile Crowdsourcing
+N
+- Learning to rank with SoftRank and Gaussian processes
+N
+- CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale
+N
+- Combining implicit and explicit topic representations for result diversification
+N
+- Discovering Undisclosed Paid Partnership on Social Media via Aspect-Attentive Sponsored Post Learning
+N
+- Distributional term representations: an experimental comparison
+N
+- IDF for Word N-grams
+N
+- Design engineers and technical professionals at work: Observing information usage in the workplace
+N
+54
+- Privacy Languages: Are we there yet to enable user controls?
+N
+- Aspect of Blame in Tweets: A Deep Recurrent Neural Network Approach
+N
+- The Electronic Journal: A Progress Report
+N
+- Human-centered explainable artificial intelligence: An Annual Review of Information Science and Technology (ARIST) paper
+N
+- Guest editorial of the IPM special issue on algorithmic bias and fairness in search and recommendation
+N
+- Inferring Passengers' Interactive Choices on Public Transits via MA-AL: Multi-Agent Apprenticeship Learning
+N
+- Explainable Session-based Recommendation with Meta-path Guided Instances and Self-Attention Mechanism
+N
+- Update Delivery Mechanisms for Prospective Information Needs: An Analysis of Attention in Mobile Users
+N
+- An empirical investigation of Web session workloads: Can self-similarity be explained by deterministic chaos?
+N
+- Associating Cooking Video Segments with Preparation Steps
+N
+55
+- Being Confident about the Quality of the Predictions in Recommender Systems
+N
+- TrackMeOrNot: Enabling Flexible Control on Web Tracking
+N
+- Virtual private social networks and a facebook implementation
+N
+- TAPP: Defining standard provenance information for clinical research data and workflows - Obstacles and opportunities
+N
+- Disinformation Detection: Knowledge Infusion with Transfer Learning and Visualizations
+N
+- Modeling Semantic Web Services with OPM/S A Human and Machine-Interpretable Language
+N
+- Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks
+N
+- Rhythmic and Psycholinguistic Features for Authorship Tasks in the Spanish Parliament: Evaluation and Analysis
+N
+- A novel Dual-Blockchained structure for contract-theoretic LoRa-based information systems
+N
+- Social media recommendation based on people and tags
+N
+56
+- Personalized Showcases: Generating Multi-Modal Explanations for Recommendations
+N
+- KI^2COVID-19 Misinformation Detection
+N
+- Modeling the factors affecting individuals' use of community networks: A theoretical explanation of community-based information and communication technology use
+N
+- Federated Unlearning via Class-Discriminative Pruning
+N
+- Leveraging Joint Interactions for Credibility Analysis in News Communities
+N
+- Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation
+N
+- Modeling Users' Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection
+N
+- Liberating interdisciplinarity from myth. An exploration of the discursive construction of identities in information studies
+N
+- Adversarial Geospatial Abduction Problems
+N
+- The non-Gaussian nature of bibliometric and scientometric distributions: A new approach to interpretation
+N
+57
+- Seeking explanation in theory: Reflections on the social practices of organizations that distribute public use microdata files for research purposes
+N
+- Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning
+N
+- Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data
+N
+- Students' group work strategies in source-based writing assignments
+N
+- Latent credibility analysis
+N
+- Natural event summarization
+N
+- PODIUM: Procuring Opinions from Diverse Users in a Multi-Dimensional World
+N
+- SESAME: European Statistics Explored via Semantic Alignment onto Wikipedia
+N
+- Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks
+N
+- BiTeM Group Report for TREC Medical Records Track 2011
+N
+58
+- EvoLearner: Learning Description Logics with Evolutionary Algorithms
+N
+- What Is Your Cause for Concern? Towards Interpretable Complaint Cause Analysis
+N
+- The Predictive Power of Massive Data about our Fine-Grained Behavior
+N
+- Beyond Diverse Datasets: Responsible MIR, Interdisciplinarity, and the Fractured Worlds of Music
+N
+- How to hack into Facebook without being a hacker
+N
+- You should read this! let me explain you why: explaining news recommendations to users
+N
+- Spatial influence vs. community influence: modeling the global spread of social media
+N
+- The congruity between linkage-based factors and content-based clusters - an experimental study using multiple document corpora
+N
+- STARS: Defending against Sockpuppet-Based Targeted Attacks on Reviewing Systems
+N
+- Separ: Towards Regulating Future of Work Multi-Platform Crowdworking Environments with Privacy Guarantees
+N
+59
+- Extracting and Representing Causal Knowledge of Health Condition
+N
+- RoCourseNet: Robust Training of a Prediction Aware Recourse Model
+N
+- Efficient URL caching for world wide web crawling
+N
+- FM2: Field-matrixed Factorization Machines for Recommender Systems
+N
+- Instant Espresso: Interactive Analysis of Relationships in Knowledge Graphs
+N
+- UZH{LENS Model Selection for Scientific Literature Simplification
+N
+- Dynamic Query Optimization on a Distributed Object Management Platform
+N
+- Sequence Modeling with Hierarchical Deep Generative Models with Dual Memory
+N
+- What Web Template Extractor Should I Use? A Benchmarking and Comparison for Five Template Extractors
+N
+- A design rationale representation model using patent documents
+N
+60
+- TUW-IFS at TREC NEWS 2020 : Wikification Task
+N
+- Work and personal e-mail use by university employees: PIM practices across domain boundaries
+N
+- Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews
+N
+- Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
+N
+- Multimodal Geolocation Estimation of News Photos
+N
+- Which factors explain the Web impact of scientists' personal homepages?
+N
+- A Post-Training Framework for Improving Heterogeneous Graph Neural Networks
+N
+- User-controllable Recommendation Against Filter Bubbles
+N
+- Exploring Expert Cognition for Attributed Network Embedding
+N
+- Applying semantic knowledge to the automatic processing of temporal expressions and events in natural language
+N
+61
+- Designing Intelligent Systems for Online Education: Open Challenges and Future Directions
+N
+- Predictive effects of structural variation on citation counts
+N
+- The Simpson's Paradox in the Offline Evaluation of Recommendation Systems
+N
+--------------------------------------------------------------------------------------
+# Single Prompt LLM-generated Query:
+("Fairness" OR "Accountability" OR "Transparency" OR "Ethics" OR "AI Bias" OR "Algorithmic Fairness" OR "Human-Centered AI" OR "Privacy in Information Retrieval") AND ("Information Retrieval" OR "Search Engine" OR "Web Search" OR "Textual Analysis" OR "Query Processing" OR "Information Access")
+--------------------------------------------------------------------------------------
+Results: # 48 retrieved documents
+1
+- Fairness and Transparency in Ranking
+R 16
+- Fairness and Transparency in Ranking
+R 16
+- Fairness in Information Access Systems
+N
+- Fairness and Discrimination in Retrieval and Recommendation
+N
+- FACTS-IR: fairness, accountability, confidentiality, transparency, and safety in information retrieval
+R 75
+- Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR)
+N
+- Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation
+N
+- Addressing Social Bias in Information Retrieval
+N
+- The Archive Query Log: Mining Millions of Search Result Pages of Hundreds of Search Engines from 25 Years of Web Archives
+N
+- Measuring the web crawler ethics
+N
+2
+- A Comparative Study of Click Models for Web Search
+N
+- FAIR: Fairness-aware information retrieval evaluation
+R 37
+- Data, censorship, and politics: Analyzing the restricted flow of information in federal scientific policy development
+N
+- Search Result Explanations Improve Efficiency and Trust
+R 84
+- Some Reflections on the Use of Structural Equation Modeling for Investigating the Causal Relationships that Affect Search Engine Results
+R 68
+- Fairness in Information Retrieval
+N
+- RAGUEL: Recourse-Aware Group Unfairness Elimination
+N
+- Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison
+N
+- Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access
+N
+- Gender Fairness in Information Retrieval Systems
+N
+3
+- Language Fairness in Multilingual Information Retrieval
+N
+- Methods for Evaluating Interactive Information Retrieval Systems with Users
+N
+- Societal Biases in Retrieved Contents: Measurement Framework and Adversarial Mitigation of BERT Rankers
+R 85
+- Personalized Search: Potential and Pitfalls
+N
+- Interactive Information Retrieval with Bandit Feedback
+N
+- Demographic differences in search engine use with implications for cohort selection
+N
+- Joint Multisided Exposure Fairness for Recommendation
+N
+- Understanding How Algorithmic and Cognitive Biases in Web Search Affect User Attitudes on Debated Topics
+N
+- MusiClef: Multimodal Music Tagging Task
+N
+- Transparent Queries: Investigating Users' Mental Models of Search Engines
+N
+4
+- Putting context into search and search into context
+N
+- A Compositional Hierarchical Model for Music Information Retrieval
+N
+- Exploring Potential Pathways to Address Bias and Ethics in IR
+N
+- Pooling-based continuous evaluation of information retrieval systems
+N
+- Querying the Web of Interlinked Datasets using VOID Descriptions
+N
+- Information retrieval in the workplace: A comparison of professional search practices
+N
+- Search results diversification for effective fair ranking in academic search
+R 66
+- Research synthesis methods and library and information science: Shared problems, limited diffusion
+N
+- How Fair Can We Go: Detecting the Boundaries of Fairness Optimization in Information Retrieval
+R 38
+- Understanding Users of Commercial Music Services through Personas: Design Implications
+N
+5
+- A Meta-learning Approach to Fair Ranking
+N
+- A Markovian Approach to Evaluate Session-Based IR Systems
+N
+- A model of the relationship between the variations of effectiveness and fairness in information retrieval
+N
+- Experimental Methods in IIR: The Tension between Rigour and Ethics in Studies Involving Users with Dyslexia
+N
+- IR for Children 2000-2020: Where Are We Now?
+N
+- Score region algebra: building a transparent XML-R database
+N
+- Mitigating Bias in Search Results Through Contextual Document Reranking and Neutrality Regularization
+N
+- Supervised approaches for explicit search result diversification
+N
+--------------------------------------------------------------------------------------
+# Query generated with multiple steps by LLM:
+((Fairness OR equity OR bias) OR (accountability OR responsibility) OR (transparency OR "information transparency" OR "information accessibility") OR ("ethics" OR "moral philosophy" OR "social implications" OR "value judgments" OR "ethical considerations")) AND ("information retrieval" OR "information access" OR "search engine design" OR "query processing")
+--------------------------------------------------------------------------------------
+Results: # 112 retrieved documents
+1
+- Fairness and Transparency in Ranking
+R 16
+- Fairness and Transparency in Ranking
+R 16
+- Addressing Social Bias in Information Retrieval
+N
+- FACTS-IR: fairness, accountability, confidentiality, transparency, and safety in information retrieval
+R 75
+- Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR)
+N
+- Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation
+N
+- Fairness in Information Access Systems
+N
+- Fairness in Information Retrieval
+N
+- Interactive Information Retrieval with Bandit Feedback
+N
+- Gender Fairness in Information Retrieval Systems
+N
+2
+- Exploring Potential Pathways to Address Bias and Ethics in IR
+N
+- Societal Biases in Retrieved Contents: Measurement Framework and Adversarial Mitigation of BERT Rankers
+R 85
+- Taking Search to Task
+N
+- FAIR: Fairness-aware information retrieval evaluation
+R 37
+- Data, censorship, and politics: Analyzing the restricted flow of information in federal scientific policy development
+N
+- Online Evaluation for Information Retrieval
+N
+- Mitigating Bias in Search Results Through Contextual Document Reranking and Neutrality Regularization
+N
+- Some Reflections on the Use of Structural Equation Modeling for Investigating the Causal Relationships that Affect Search Engine Results
+R 68
+- Introducing an active cluster-based information retrieval paradigm
+N
+- A Framework for Information Accessibility in Large Video Repositories
+N
+3
+- Fairness and Discrimination in Retrieval and Recommendation
+N
+- Measuring Fairness in Ranked Results: An Analytical and Empirical Comparison
+N
+- Findability: A Novel Measure of Information Accessibility
+N
+- Much Ado About Gender: Current Practices and Future Recommendations for Appropriate Gender-Aware Information Access
+N
+- Research synthesis methods and library and information science: Shared problems, limited diffusion
+N
+- Paid placement strategies for internet search engines
+N
+- Participatory personal data: An emerging research challenge for the information sciences
+N
+- A Meta-learning Approach to Fair Ranking
+N
+- Language Fairness in Multilingual Information Retrieval
+N
+- Methods for Evaluating Interactive Information Retrieval Systems with Users
+N
+4
+- Joint Multisided Exposure Fairness for Recommendation
+N
+- On Biases in Information Retrieval Models and Evaluation
+N
+- Bias-variance analysis in estimating true query model for information retrieval
+N
+- MusiClef: Multimodal Music Tagging Task
+N
+- Impact of Debiasing Word Embeddings on Information Retrieval
+N
+- An Adversarial Imitation Click Model for Information Retrieval
+N
+- Beliefs and biases in web search
+N
+- Grep-BiasIR: A Dataset for Investigating Gender Representation Bias in Information Retrieval Results
+N
+- A Compositional Hierarchical Model for Music Information Retrieval
+N
+- Understanding and Mitigating Gender Bias in Information Retrieval Systems
+N
+5
+- A bias-variance evaluation framework for information retrieval systems
+N
+- On the Orthogonality of Bias and Utility in Ad hoc Retrieval
+N
+- International Workshop on Algorithmic Bias in Search and Recommendation (Bias 2020)
+N
+- Pooling-based continuous evaluation of information retrieval systems
+N
+- Agreement among statistical significance tests for information retrieval evaluation at varying sample sizes
+N
+- Automatic ranking of information retrieval systems using data fusion
+N
+- Retrievability Bias Estimation Using Synthetically Generated Queries
+N
+- Querying the Web of Interlinked Datasets using VOID Descriptions
+N
+- Information retrieval in the workplace: A comparison of professional search practices
+N
+- Treehugger or petrolhead?: identifying bias by comparing online news articles with political speeches
+N
+6
+- Beyond position bias: examining result attractiveness as a source of presentation bias in clickthrough data
+N
+- How are information deserts created? A theory of local information landscapes
+N
+- Search results diversification for effective fair ranking in academic search
+R 66
+- Special issue on AIRS2005: Information retrieval research in Asia
+N
+- Do Neural Ranking Models Intensify Gender Bias?
+N
+- Analyzing the Influence of Bigrams on Retrieval Bias and Effectiveness
+R 4
+- An Empirical Analysis of Pruning Techniques: Performance, Retrievability and Bias
+N
+- On caption bias in interleaving experiments
+N
+- Benchmarking News Recommendations in a Living Lab
+N
+- Algorithmic Bias: Do Good Systems Make Relevant Documents More Retrievable?
+N
+7
+- The Solitude of Relevant Documents in the Pool
+N
+- Kernel latent semantic analysis using an information retrieval based kernel
+N
+- Tie-Breaking Bias: Effect of an Uncontrolled Parameter on Information Retrieval Evaluation
+N
+- Bias-variance decomposition of ir evaluation
+N
+- When People Change their Mind: Off-Policy Evaluation in Non-stationary Recommendation Environments
+N
+- Machine learning for information retrieval
+N
+- How Fair Can We Go: Detecting the Boundaries of Fairness Optimization in Information Retrieval
+R 38
+- Understanding Users of Commercial Music Services through Personas: Design Implications
+N
+- Analysis of the Paragraph Vector Model for Information Retrieval
+N
+- Exploring Gender Biases in Information Retrieval Relevance Judgement Datasets
+N
+8
+- Dynamical information retrieval modelling: a portfolio-armed bandit machine approach
+N
+- A Markovian Approach to Evaluate Session-Based IR Systems
+N
+- A model of the relationship between the variations of effectiveness and fairness in information retrieval
+N
+- How Deep Learning Works for Information Retrieval
+N
+- Revisiting the relationship between document length and relevance
+N
+- Five Approaches to Collecting Tags for Music
+N
+- Experimental Methods in IIR: The Tension between Rigour and Ethics in Studies Involving Users with Dyslexia
+N
+- Speech and Hand Transcribed Retrieval
+N
+- IR for Children 2000-2020: Where Are We Now?
+N
+- Active Sampling for Large-scale Information Retrieval Evaluation
+N
+9
+- The Impact of Fixed-Cost Pooling Strategies on Test Collection Bias
+N
+- Gender stereotype reinforcement: Measuring the gender bias conveyed by ranking algorithms
+N
+- A Bayesian model that predicts the impact of Web searching on decision making
+N
+- News in the age of the web
+N
+- PageRank without hyperlinks: structural re-ranking using links induced by language models
+N
+- Improving Cross-lingual Information Retrieval on Low-Resource Languages via Optimal Transport Distillation
+N
+- Introduction to special issue on human-computer information retrieval
+N
+- Score region algebra: building a transparent XML-R database
+N
+- Evaluation Measures for Relevance and Credibility in Ranked Lists
+N
+- A Deep Recurrent Survival Model for Unbiased Ranking
+N
+10
+- CrowdGP: a Gaussian Process Model for Inferring Relevance from Crowd Annotations
+N
+- Retrievability: An Independent Evaluation Measure
+N
+- Estimating interleaved comparison outcomes from historical click data
+N
+- Exploiting XML structure to improve information retrieval in peer-to-peer systems
+N
+- Evaluating retrieval models using retrievability measurement
+N
+- Soft Prompt Decoding for Multilingual Dense Retrieval
+N
+- An analysis on document length retrieval trends in language modeling smoothing
+N
+- An LDA-smoothed relevance model for document expansion: a case study for spoken document retrieval
+N
+- Toward Estimating the Rank Correlation between the Test Collection Results and the True System Performance
+N
+- The impact of result diversification on search behaviour and performance
+N
+11
+- Is Non-IID Data a Threat in Federated Online Learning to Rank?
+N
+- Query-Sensitive Similarity Measures for the Calculation of Interdocument Relationships
+N
+- The retrievability of documents
+N
+- Using Clicks as Implicit Judgments: Expectations Versus Observations
+N
+- Evaluation by comparing result sets in context
+N
+- A Tutorial on Measuring Document Retrievability
+N
+- Analysis of Multivariate Scoring Functions for Automatic Unbiased Learning to Rank
+N
+- Understanding and Leveraging the Impact of Response Latency on User Behaviour in Web Search
+N
+- Theory of Retrieval: The Retrievability of Information
+N
+- Investigating Reference Dependence Effects on User Search Interaction and Satisfaction: A Behavioral Economics Perspective
+N
+12
+- The COVID-19 Open Research Dataset - Abstract
+N
+- The strange case of reproducibility versus representativeness in contextual suggestion test collections
+N
+--------------------------------------------------------------------------------------
